@@ -22,4 +22,5 @@
 - Understood importance of documenting work.
 
 ### Time Taken
-- Approximately 2–3 hours
+- Approximately 40 minutes
+
